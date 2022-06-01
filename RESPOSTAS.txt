@@ -1,0 +1,4 @@
+Quais tabelas precisaram ser alteradas e o que precisou ser alterado para a realização dos INSERTS?
+
+A tabela que precisou ser alterada para a realização de INSERT foi a FUNCIONARIO, mais precisamente na coluna CPF, onde foi alterado o VARCHAR de 11 para 14, para que pudessem ser digitados as barras e pontos.
+
